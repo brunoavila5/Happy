@@ -97,6 +97,6 @@
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoavilamatos/)](https://www.linkedin.com/in/brunoavilamatos/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Avila-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoavilamatos/)](https://www.linkedin.com/in/brunoavilamatos/)
 
    </div>
