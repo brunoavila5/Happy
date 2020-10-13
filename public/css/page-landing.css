@@ -1,0 +1,64 @@
+#page-landing {
+  background: linear-gradient(329.54deg, #29b6d1 0%, #00c7c7 100%);
+  /* linear-gradient is a funtion and inside we have the following argument: (inclination of the gradient, first color and intensity and second color and intensity) You can also get these values out of figma*/
+  text-align: center;
+  min-height: 100vh;
+  /* vh is viewport height" */
+  display: flex;
+  /*we have display block and inline. Flex aligns the elements. The other option is grid*/
+}
+
+#container {
+  margin: auto;
+  /*margin: 50px 10px 60px 100px; margin top right bottom left*/
+  width: 90%;
+}
+
+.location,
+h1,
+.visit p {
+  height: 16vh;
+}
+
+.visit a {
+  width: 8rem;
+  height: 8rem;
+  background: #ffd666;
+
+  border: none;
+  border-radius: 3rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  transition: background 200ms;
+}
+
+.visit a:hover {
+      background: #96feff;
+  }
+
+#logo {
+    animation-delay: 50ms;
+  }
+  
+.location {
+    animation-delay: 100ms;
+  }
+  
+main h1 {
+    animation-delay: 150ms;
+  }
+  
+.visit p {
+    animation-delay: 200ms;
+  }
+  
+.visit a {
+    animation-delay: 250ms;
+  }
+  
+
+  
+  /*hover means the mouse is on top of it*/

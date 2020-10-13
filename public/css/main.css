@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* What is a css file?*/
+/* Cascade means it will always consider the last element if you have different rules applying to the same thing. However, if you  have an ID, it is stronger then the order. If you put the style in the html file, it is even stronger*/
+
+body {
+  height: 100vh;
+  color: white;
+}
+
+:root {
+  font-size: 62.5%;
+  /* The standard size in the web is 16px. The root element definition establishes the absolute value to each all the other elements will relate to. In this case 62.5% of 16px */
+}
+
+body,
+input,
+button,
+textarea {
+  font-weight: 400;
+  font-size: 1.8rem;
+  font-family: "Nunito", sans-serif;
+  line-height: 1;
+  /*other way to do it:
+   font: 400 18px/1 'Nunito', sans-serif;
+   1.8rem means 1.8 times the root element*/
+}
+
+/*CSS works with concept of Box Model: box size: width and height. Padding (preenchimento), frame, margins (around the frame) colors etc*/
+
+/* You can present the color with the name, numbers, codes, RGB function, etc */
+/*Responsive design is the one that applies to browses with different sizes, so different devices*/
