@@ -90,13 +90,13 @@
 
    ---
 
-   >This project was developed with ❤️ by **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
+   >This project was developed with ❤️ by **[@brunoavila5](https://www.linkedin.com/in/brunoavilamatos/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
    If it helped you, give it ⭐, it will help me too 😉 
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoavilamatos/)](https://www.linkedin.com/in/brunoavilamatos/)
 
    </div>
